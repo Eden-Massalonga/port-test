@@ -2,15 +2,15 @@
 	<footer class="fixed bg-dark mt-5 mb-0">
 		<div class="container row m-auto p-4">
 			<div class="col-sm-12 col-lg-6 mr-auto">
-				<h5 class="text-light"> Contactos:</h5>
+				<h5 class="text-light"><i class="fas fa-address-book"></i> Contactos:</h5>
 				<li class="list-group-item"><i class="fas fa-envelope"></i> Celular: 845769862</li>
 				<li class="list-group-item"><i class="fas fa-envelope"></i> E-mail: edenmassalonga@outlook.com</li>
             </div>
 
-			<div class="col-sm-12 col-lg-6 ml-auto">
+			<div class="col-sm-12 col-lg-6 ml-auto mt-2">
 				<h5 class="text-light"><i class="fas fa-address-book"></i> Siga-me:</h5>
-				<li class="list-group-item"><i class="fas fa-envelope"></i> Linked In</li>
-				<li class="list-group-item"><i class="fas fa-envelope"></i> Github</li>
+				<li class="list-group-item"><i class="fab fa-linkedin"></i> Linked In</li>
+				<li class="list-group-item"><i class="fab fa-github"></i> Github</li>
 			</div>
 		</div>
 
