@@ -34,9 +34,9 @@
 							</a>
 							
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown1">
-							  <a class="dropdown-item" href="#">Curriculo Vitae</a>			  
+							  <a class="dropdown-item" href="doc/curriculo.pdf">Curriculo Vitae</a>			  
 							  <div class="dropdown-divider"></div>
-							  <a class="dropdown-item" href="#">Certificado do Ensino Medio</a>
+							  <a class="dropdown-item" href="doc/certificado.pdf">Certificado do Ensino Medio</a>
 							  <a class="dropdown-item" href="#">Carta de Estagio</a>
 							</div>
 						</li>		
