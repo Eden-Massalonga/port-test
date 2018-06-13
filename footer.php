@@ -3,14 +3,16 @@
 		<div class="container row m-auto p-4">
 			<div class="col-sm-12 col-lg-6 mr-auto">
 				<h5 class="text-light"><i class="fas fa-address-book"></i> Contactos:</h5>
-				<li class="list-group-item"><i class="fas fa-mobile"></i> Celular: 845769862</li>
-				<li class="list-group-item"><i class="fas fa-envelope"></i> E-mail: edenmassalonga@outlook.com</li>
+				<li class="list-group-item"><i class="fas fa-mobile"></i> <b>Celular</b>: 845769862</li>
+				<li class="list-group-item"><i class="fas fa-envelope"></i> <b>E-mail</b>: edenmassalonga@outlook.com</li>
             </div>
 
 			<div class="col-sm-12 col-lg-6 ml-auto">
 				<h5 class="text-light"><i class="fas fa-address-book"></i> Siga-me:</h5>
-				<li class="list-group-item"><i class="fab fa-linkedin"></i> Linked In</li>
-				<li class="list-group-item"><i class="fab fa-github"></i> Github</li>
+				<li class="list-group-item"><i class="fab fa-linkedin"></i> <a target="blank" href="https://www.linkedin.com/in/
+eden-massalonga-3b3021104
+">Linked In</a></li>
+				<li class="list-group-item"><i class="fab fa-github"></i> <a target="blank" href="https://github.com/Eden-Massalonga">Github</a></li>
 			</div>
 		</div>
 
