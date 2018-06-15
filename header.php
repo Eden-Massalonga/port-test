@@ -13,7 +13,7 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		
 		<!-- Font Awesome CSS -->
-		<link rel="stylesheet" href="css/fontawesome-all.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 		
 		<link rel="shortcut icon" type="image/x-icon" href="https://use.fontawesome.com/releases/v5.0.13/svgs/solid/user-alt.svg" />
 		
