@@ -1,7 +1,7 @@
 	
 	<footer class="fixed bg-dark mt-5 mb-0">
-		<div class="container row m-auto p-4">
-			<div class="col-sm-12 col-lg-6 mr-auto">
+		<div class="container  row m-auto p-4">
+			<div class="col-sm-12 col-lg-6 mr-auto ">
 				<h5 class="text-light"><i class="fas fa-address-book"></i> Contactos:</h5>
 				<li class="list-group-item"><i class="fas fa-mobile"></i> <b>Celular</b>: 845769862</li>
 				<li class="list-group-item"><i class="fas fa-envelope"></i> <b>E-mail</b>: edenmassalonga@outlook.com</li>
@@ -9,17 +9,16 @@
 
 			<div class="col-sm-12 col-lg-6 ml-auto">
 				<h5 class="text-light"><i class="fas fa-address-book"></i> Siga-me:</h5>
-				<li class="list-group-item"><i class="fab fa-linkedin"></i> <a target="blank" href="https://www.linkedin.com/in/
-eden-massalonga-3b3021104
-">Linked In</a></li>
-				<li class="list-group-item"><i class="fab fa-github"></i> <a target="blank" href="https://github.com/Eden-Massalonga">Github</a></li>
+				<li class="list-group-item"><i class="fab fa-linkedin"></i> <a target="blank" href="https://www.linkedin.com/in/eden-massalonga-3b3021104">Linked In</a></li>
+				<li class="list-group-item"><i class="fab fa-github"></i> <a target="blank" href="https://github.com/Eden-Massalonga">Github</a></li>				
 			</div>
 		</div>
 
-		<div class="container-fluid row bg-gradient-secondary justify-content-center m-auto p-2 ">
-			<p class="text-light mb-0">&copy; Direitos Reservados</p>
-		</div>
+		
 	</footer>
+	<div class="container-fluid row bg-secondary justify-content-center m-auto p-2 ">
+			<p class="text-light mb-0">2018</p>
+	</div>
 	
 	<!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
